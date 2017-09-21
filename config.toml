@@ -1,0 +1,23 @@
+baseurl         = "http://www.andy-thornton.net/"
+theme           = "sp-minimal"
+languageCode    = "en-us"
+title           = "Andy Thornton"
+disqusShortname = ""
+paginate        = 5
+
+[params]
+  title       = "Andy Thornton"
+  subtitle    = "Vintage English Pluviophile, Bemused New American, Open Source advocate"
+  copyright   = "Released under the MIT license."
+  authorImage = "logo.png"
+
+  #"single" or "multi"
+  renderType = "multi"
+  #"simple" or "original"
+  themeStyle = "simple"
+
+  googleAnalytics = ""
+
+  name = "Andy Thornton"
+  description = "A place to ramble on the internet."
+  pageNotFoundTitle = "404 - Page not found"
